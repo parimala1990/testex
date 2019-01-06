@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite">
+    <groups>
+    </groups>
+    <test name="Test">
+      <class name="com.Monster.Tests.multipleWindows">
+        <test-method status="PASS" signature="methodSample()" name="methodSample" duration-ms="35865" started-at="2018-12-31T11:05:02Z" finished-at="2018-12-31T11:05:38Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
